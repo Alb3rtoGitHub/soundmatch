@@ -1,7 +1,7 @@
 
 ![Programación-Desafío](https://github.com/genesysR-dev/2066-desafio-persistiendo-datos-artistas-canciones/assets/91544872/6675312c-06e9-4a44-a869-683c332dcd71)
 
-# 🔎🎹 Desafío ***~SOUNDMATCH~*** 🎶🎵💿
+# 🔎🎹 Desafío ***SOUNDMATCH*** 🎶🎵💿
 Como parte final del curso de Alura: **"Java persistencia de datos y consultas con Spring Data JPA"**, nos pide implementar una aplicación para almacenar datos de nuestros artistas y canciones preferidas en una base de datos relacional, pudiendo buscar información por artistas y consultar datos sobre los mismos a través de integración con la API de ChatGPT.
 
 
@@ -25,6 +25,7 @@ Recuerda extender CommandLineRunner en la clase de Spring, sobrescribiendo el m�
 Se muestra Menu por consola con opciones e interacción, se ha desarrollado con la IDE IntelliJ.
 
 ## 📅 Base de Datos
+Se utilizan variables de entorno ${DB_HOST}, ${DB_USER}, ${DB_PASSWORD} para ocultar/proteger datos personales, que cada uno debera configurar o bien reemplazar en el archivo ApplicationProperties.
 >[!NOTE]
 >
 >Importar el archivo sound.sql en una Base de Datos PostgreSQL que pueden llamar **soundmatch**
