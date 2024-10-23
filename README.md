@@ -25,13 +25,13 @@ Recuerda extender CommandLineRunner en la clase de Spring, sobrescribiendo el m�
 Se muestra Menu por consola con opciones e interacción, se ha desarrollado con la IDE IntelliJ.
 
 ## 📅 Base de Datos
->[!NOTA]
+>[!NOTE]
 >
 >Importar el archivo sound.sql en una Base de Datos PostgreSQL que pueden llamar **soundmatch**
 
 ## 🌀 Integración con la API de ChatGPT
 Se puede buscar información sobre un determinado artista utilizando la consulta a la API de ChatGPT
->[!IMPORTANTE]
+>[!IMPORTANT]
 >
 >Para utilizar ChatGPT es necesario una OPENAI_APIKEY y tener crédito en la cuenta, caso contrario no se puede utilizar esta parte aunque encontrarán las instrucciones redactadas para ejecutar la consulta.
 
