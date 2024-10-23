@@ -1,4 +1,4 @@
-package com.aluracursos.soundmatch.respository;
+package com.aluracursos.soundmatch.repository;
 
 import com.aluracursos.soundmatch.model.Cancion;
 import org.springframework.data.jpa.repository.JpaRepository;

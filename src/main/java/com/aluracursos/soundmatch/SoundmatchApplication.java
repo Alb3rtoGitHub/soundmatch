@@ -1,8 +1,8 @@
 package com.aluracursos.soundmatch;
 
 import com.aluracursos.soundmatch.prinpipal.Principal;
-import com.aluracursos.soundmatch.respository.ArtistaRepository;
-import com.aluracursos.soundmatch.respository.CancionRepository;
+import com.aluracursos.soundmatch.repository.ArtistaRepository;
+import com.aluracursos.soundmatch.repository.CancionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

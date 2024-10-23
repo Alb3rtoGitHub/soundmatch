@@ -3,8 +3,8 @@ package com.aluracursos.soundmatch.prinpipal;
 import com.aluracursos.soundmatch.model.Artista;
 import com.aluracursos.soundmatch.model.Cancion;
 import com.aluracursos.soundmatch.model.TipoArtista;
-import com.aluracursos.soundmatch.respository.ArtistaRepository;
-import com.aluracursos.soundmatch.respository.CancionRepository;
+import com.aluracursos.soundmatch.repository.ArtistaRepository;
+import com.aluracursos.soundmatch.repository.CancionRepository;
 
 import java.util.*;
 
